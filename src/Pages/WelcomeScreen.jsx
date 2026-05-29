@@ -151,14 +151,11 @@ const WelcomeScreen = ({ onLoadingComplete }) => {
                     </span>{' '}
                     <span data-aos="fade-right" data-aos-delay="400" className="inline-block px-2 bg-gradient-to-r from-white via-gray-100 to-gray-400 bg-clip-text text-transparent">
                       To
-                    </span>{' '}
-                    <span data-aos="fade-right" data-aos-delay="600" className="inline-block px-2 bg-gradient-to-r from-white via-gray-100 to-gray-400 bg-clip-text text-transparent">
-                      THE
                     </span>
                   </div>
                   <div>
-                    <span data-aos="fade-up" data-aos-delay="800" className="inline-block px-2 bg-gradient-to-r from-gray-100 to-gray-400 bg-clip-text text-transparent italic tracking-widest">
-                      VOID
+                    <span data-aos="fade-up" data-aos-delay="600" className="inline-block px-2 bg-gradient-to-r from-gray-100 to-gray-400 bg-clip-text text-transparent italic tracking-widest">
+                      Void
                     </span>{' '}
                   </div>
                 </h1>
